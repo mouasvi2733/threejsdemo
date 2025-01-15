@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mousavi2733.github.io/threejsdemo/",
+  "homepage": "https://mouasvi2733.github.io/threejsdemo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
